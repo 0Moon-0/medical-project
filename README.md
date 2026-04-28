@@ -8,22 +8,22 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### 🔐 Patient Login
-![Patient Login](screenshots/patient-log.png)
+![Patient Login](patient-log.png)
 
 ### 🔐 Doctor Login
-![Doctor Login](screenshots/doctor-log.png)
+![Doctor Login](doctor-log.png)
 
 ### 📝 Registration
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ### 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](screenshots/doctor-dashboard.png)
+![Doctor Dashboard](doctor-dashboard.png)
 
 ### 🧑‍⚕️ Patient Dashboard
-![Patient Dashboard](screenshots/patient-dashboard.png)
+![Patient Dashboard](patient-dashboard.png)
 
 ---
 
