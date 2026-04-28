@@ -11,10 +11,10 @@
 ![Home Page](screenshots/home.png)
 
 ### 🔐 Patient Login
-![Patient Login](screenshots/patient-login.png)
+![Patient Login](screenshots/patient-log.png)
 
 ### 🔐 Doctor Login
-![Doctor Login](screenshots/doctor-login.png)
+![Doctor Login](screenshots/doctor-log.png)
 
 ### 📝 Registration
 ![Register](screenshots/register.png)
