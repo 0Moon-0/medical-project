@@ -8,7 +8,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home)
 
 ### 🔐 Patient Login
 ![Patient Login](screenshots/patient-log.png)
